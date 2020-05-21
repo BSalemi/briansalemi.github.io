@@ -365,3 +365,18 @@ footer {
         background-color: #c00000;
         cursor: pointer;
     }
+
+    .contactButton {
+        padding: 15px 20px;
+        display: inline-block;
+        margin-top: 20px;
+        border: 1px solid;
+        border-radius: 1px;
+        background: transparent
+    }
+
+    .contactButton:hover {
+        text-decoration: none;
+        background-color: mediumpurple;
+        color: whitesmoke;
+    }
