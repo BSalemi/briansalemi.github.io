@@ -156,19 +156,19 @@ padding:0px;
     }
 
 /*================================
-    SERVICES STYLES
+    skills STYLES
 ==================================*/
-#services {
+#skills {
     background-color: rgba(237, 237, 237, 1);
 }
 
-    #services i {
+    #skills i {
         font-size: 80px;
         padding: 30px;
         color: #FF2276;
     }
 
-    #services h4 {
+    #skills h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
@@ -283,9 +283,9 @@ padding:0px;
         padding-bottom: 100px;
     }
 /* =============================================================
-  TEAM SECTION STYLES
+  blog SECTION STYLES
  ============================================================ */
-#team {
+#blog {
     background-color: rgba(237, 237, 237, 1);
 }
 
