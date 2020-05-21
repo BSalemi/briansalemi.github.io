@@ -134,7 +134,7 @@ padding:0px;
 }
 
     #header .overlay {
-        background-color: rgba(3, 3, 3, 0.8);
+        /* background-color: rgba(3, 3, 3, 0.8); */
         min-height: 700px;
     }
 
@@ -370,13 +370,15 @@ footer {
         padding: 15px 20px;
         display: inline-block;
         margin-top: 20px;
-        border: 1px solid;
+        border: 1px solid coral;
         border-radius: 1px;
-        background: transparent
+        background: transparent;
+        font-weight: bold;
+        font-family: 'Oswald', sans-serif
     }
 
     .contactButton:hover {
         text-decoration: none;
-        background-color: mediumpurple;
-        color: whitesmoke;
+        background-color: black;
+        color:indianred;
     }
