@@ -59,7 +59,7 @@ section {
 NAVBAR STYLES
 ==============================*/
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-    color: #fff;
+    color:coral;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -71,24 +71,24 @@ padding:0px;
         height:50px;
     }
 .navbar-default .navbar-toggle {
-    border-color: #FFF;
+    border-color:coral;
 }
 
     .navbar-default .navbar-toggle .icon-bar {
-        background-color: #FFF;
+        background-color: coral;
     }
 
     .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-        background-color: rgba(0, 0, 0, 0);
+        background-color: coral
     }
 
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color:coral;
     font-weight: 900;
 }
 
     .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-        color: #000;
+        color:coral;
         text-decoration: none;
     }
 
@@ -150,8 +150,8 @@ padding:0px;
 
     #header h4 {
         line-height: 30px;
-        font-size: 12px;
-        padding-bottom: 40px;
+        font-size: 18px;
+        padding-bottom: 20px;
         text-transform: uppercase;
     }
 
@@ -159,7 +159,7 @@ padding:0px;
     skills STYLES
 ==================================*/
 #skills {
-    background-color:rgba(237, 237, 237, 0);
+    background-color: black;
 }
 
     #skills i {
@@ -234,8 +234,8 @@ padding:0px;
 
 /* FOR CHANGING COLOR OF ACTIVE CATEGORY */
 .caegories a.active {
-    background-color: #FF2276;
-    border: 2px solid #FF2276;
+    background-color: black;
+    border: 2px solid coral;
 }
 
 /* FOR TRANSITION BEAUTIFULLY */
@@ -246,7 +246,7 @@ padding:0px;
 }
 
 #works .work-wrapper {
-    border: 2px solid #FF2276;
+    border: 2px solid coral;
     padding: 2px;
     margin: 5px 5px 10px 5px;
 }
@@ -286,14 +286,14 @@ padding:0px;
   blog SECTION STYLES
  ============================================================ */
 #blog {
-    background-color: rgba(237, 237, 237, 0);
+    background-color: black;
 }
 
 .media img {
     margin-right: 40px;
     max-height: 150px;
     margin-bottom: 20px;
-    border: 2px solid #FF2276;
+    border: 2px solid coral;
 }
 
     .media img:hover {
@@ -360,5 +360,5 @@ footer {
     .headerDiv{
         width: auto;
         height: auto;
-        background-color: rgba(237, 237, 237, 0.8);
+        background-color: rgba(237, 237, 237, 0.178);
     }
