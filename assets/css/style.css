@@ -144,7 +144,7 @@ padding:0px;
         font-weight: 900;
         padding-top: 180px;
         padding-bottom: 35px;
-        color: #FF2276;
+        color: darkorange;
     }
 
 
@@ -159,7 +159,7 @@ padding:0px;
     skills STYLES
 ==================================*/
 #skills {
-    background-color: rgba(237, 237, 237, 1);
+    background-color:rgba(237, 237, 237, 0);
 }
 
     #skills i {
@@ -266,7 +266,7 @@ padding:0px;
   TESTIMONIAL SECTION STYLES
  ============================================================ */
 #testimonial {
-    background: url(../img/testimonial.jpg) no-repeat center center;
+    background: url(../img/cadillacmountain2.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -275,7 +275,7 @@ padding:0px;
 }
 
     #testimonial .overlay {
-        background-color: rgba(0,0,0,0.7);
+        /* background-color: rgba(0,0,0,0.7); */
         padding-top: 90px;
         min-height: 300px;
         color: #fff;
@@ -286,7 +286,7 @@ padding:0px;
   blog SECTION STYLES
  ============================================================ */
 #blog {
-    background-color: rgba(237, 237, 237, 1);
+    background-color: rgba(237, 237, 237, 0);
 }
 
 .media img {
@@ -327,7 +327,7 @@ footer {
     font-size: 15px;
     text-align: center;
     font-weight: 900;
-    background-color: rgba(237, 237, 237, 1);
+    background-color: rgba(237, 237, 237, 0);
 }
 
     footer a, footer a:hover {
@@ -380,5 +380,10 @@ footer {
     .contactButton:hover {
         text-decoration: none;
         background-color: black;
-        color:indianred;
+        color:coral;
+    }
+
+    .contactHeader{
+        font-family: 'Oswald', sans-serif;
+        color: mediumslateblue
     }
