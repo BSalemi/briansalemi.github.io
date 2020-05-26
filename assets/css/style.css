@@ -291,7 +291,7 @@ padding:0px;
 
 .media img {
     margin-right: 40px;
-    max-height: 150px;
+    max-height: 200px;
     margin-bottom: 20px;
     border: 2px solid coral;
 }
@@ -389,6 +389,7 @@ footer {
     .post-description{
         color:coral;
         font-size: 95%;
+        width:350px;
     }
 
     .post-footer a{
