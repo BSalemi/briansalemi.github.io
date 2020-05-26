@@ -362,3 +362,16 @@ footer {
         height: auto;
         background-color: rgba(237, 237, 237, 0.178);
     }
+
+    .small {
+        font-size: 85%;
+    }
+    
+    .text-muted{
+        color: #777;
+    }
+    
+    .post-link{
+        text-decoration: none;
+        color: coral;
+    }
