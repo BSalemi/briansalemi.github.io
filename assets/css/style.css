@@ -386,6 +386,11 @@ footer {
         color: coral;
     }
 
+    .post-description{
+        color:coral;
+        font-size: 95%;
+    }
+
     .post-footer a{
         text-decoration: none;
         color: coral;
