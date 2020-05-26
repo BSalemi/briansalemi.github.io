@@ -343,7 +343,9 @@ footer {
         border-radius: 1px;
         background: transparent;
         font-weight: bold;
-        font-family: 'Oswald', sans-serif
+        font-family: 'Oswald', sans-serif;
+        width:300px;
+        font-size: larger;
     }
 
     .contactButton:hover {
@@ -360,7 +362,7 @@ footer {
     .headerDiv{
         width: auto;
         height: auto;
-        background-color: rgba(237, 237, 237, 0.178);
+        background-color: rgba(15, 15, 15, 0.52);
     }
 
     .small {
@@ -373,5 +375,9 @@ footer {
     
     .post-link{
         text-decoration: none;
+        color: coral;
+    }
+
+    .post-heading{
         color: coral;
     }
