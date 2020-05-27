@@ -246,21 +246,24 @@ padding:0px;
 }
 
 #works .work-wrapper {
-    border: 2px solid coral;
     padding: 2px;
     margin: 5px 5px 10px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#works h2 {
+    color: coral;
 }
 
 #works img {
-    filter: gray; /* FOR IE6-9 */
-    -webkit-filter: grayscale(1); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
-    opacity: 0.8;
+    transition: all .2s ease-in-out; 
 }
 
     #works img:hover {
-        filter: none; /* FOR IE6-9 */
-        -webkit-filter: grayscale(0); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
-        opacity: 1;
+        transform: scale(1.1); 
     }
 /* =============================================================
   TESTIMONIAL SECTION STYLES
