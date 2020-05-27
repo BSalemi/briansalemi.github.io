@@ -162,6 +162,14 @@ padding:0px;
     background-color: black;
 }
 
+#skills img {
+    transition: all .2s ease-in-out; 
+}
+
+#skills img:hover {
+    transform: scale(1.1); 
+}
+
     #skills i {
         font-size: 80px;
         padding: 30px;
