@@ -5073,6 +5073,7 @@ a.thumbnail.active {
 }
 .media {
   margin-top: 15px;
+  text-align: center
 }
 .media:first-child {
   margin-top: 0;
