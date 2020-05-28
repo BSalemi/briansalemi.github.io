@@ -395,6 +395,15 @@ footer {
 
     .post-heading{
         color: coral;
+        text-align:center
+    }
+
+    .post-author{
+        text-align:center
+    }
+
+    .post-image{
+        text-align:center
     }
 
     .post-description{
