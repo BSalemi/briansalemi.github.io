@@ -301,7 +301,6 @@ padding:0px;
 }
 
 .media img {
-    margin-right: 40px;
     max-height: 200px;
     margin-bottom: 20px;
     border: 2px solid coral;
@@ -402,14 +401,11 @@ footer {
         text-align:center
     }
 
-    .post-image{
-        text-align:center
-    }
-
     .post-description{
         color:#777;
         font-size: 95%;
         width:350px;
+        text-align:center
     }
 
     .post-footer a{
