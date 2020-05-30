@@ -15,7 +15,7 @@
 ========================================================  */
 
 $(document).ready(function () {
-
+    
     // FOR SCROLL ANIMATIONS
     window.scrollReveal = new scrollReveal();
 
@@ -79,5 +79,6 @@ $(document).ready(function () {
     //CLIENTS SLIDER
         $("#clients-slider").carousel({
             interval: 2000 //TIME IN MILLI SECONDS
-        });
+        });
+
 });
