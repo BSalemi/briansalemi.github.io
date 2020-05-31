@@ -28,6 +28,8 @@ $(document).ready(function () {
         event.preventDefault();
         });
 
+    
+
     //COLLAPSE HEADER ON SCRLL
         $(window).scroll(function () {
             if ($(".navbar").offset().top > 40) {

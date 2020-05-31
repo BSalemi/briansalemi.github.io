@@ -70,6 +70,7 @@ padding:0px;
     .navbar-brand img {
         height:50px;
     }
+   /*toggle*/ 
 .navbar-default .navbar-toggle {
     border-color:coral;
 }
@@ -78,10 +79,10 @@ padding:0px;
         background-color: coral;
     }
 
-    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    .navbar-default .navbar-toggle:hover, .navbar-default  {
         background-color: coral
     }
-
+/* toggle */
 .navbar-default .navbar-nav > li > a {
     color:coral;
     font-weight: 900;
