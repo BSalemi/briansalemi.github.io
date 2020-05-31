@@ -17,7 +17,7 @@
 $(document).ready(function () {
     
     // FOR SCROLL ANIMATIONS
-    window.scrollReveal = new scrollReveal();
+    // window.scrollReveal = new scrollReveal();
 
     // SCROLL SCRIPTS 
         $('.scroll-me a').bind('click', function (event) { //just pass scroll-me class and start scrolling
