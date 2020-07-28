@@ -1,17 +1,11 @@
-﻿/*=============================================================
-    Authour URL: www.designbootstrap.com
-    
+﻿/* 
     http://www.designbootstrap.com/
 
     License: MIT
 
     http://opensource.org/licenses/MIT
 
-    100% Free To use For Personal And Commercial Use.
-
-    IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
-   
-========================================================  */
+    */
 
 /*==============================
 GENERAL STYLES
@@ -160,8 +154,9 @@ padding:0px;
     skills STYLES
 ==================================*/
 #skills {
-    background-color: black;
+    background: linear-gradient(to bottom, white, black);
 }
+
 
 #skills img {
     transition: all .2s ease-in-out; 
@@ -298,7 +293,7 @@ padding:0px;
   blog SECTION STYLES
  ============================================================ */
 #blog {
-    background-color: black;
+    background: black;
 }
 
 .media img {
